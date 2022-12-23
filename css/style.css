@@ -1,0 +1,55 @@
+body{
+  background-color: #f8f5f1;
+  color: #474542;
+
+}
+h3,h4,h5,p{
+  margin: 15px 15px 15px 0;
+  line-height: 1.5;
+}
+.text-styling{
+  margin: 5px 20px;
+  line-height: 1.5;
+  font-size: 1.1rem;
+}
+.content{
+  width: 90%;
+  height: 100%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.content p{
+
+}
+
+.card{
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.40), 0 1px 4px rgba(0, 0, 0, 0.50);
+}
+
+/* education */
+
+.work-experience{
+  margin-top: 20px;
+}
+.progress-bar{
+  background-color: #009688;
+}
+
+
+/* footer */
+#footer{
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #009688;
+  text-align: center;
+  width: 100%;
+  color: black;
+}
+.icons{
+  margin: 10px 10px 10px 0;
+  color: #009688;
+}
+.social-icons{
+  margin: 10px;
+  color: black;
+}
